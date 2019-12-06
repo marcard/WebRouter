@@ -1,0 +1,110 @@
+*{
+  width: 100%; 
+  margin: 0;
+  padding:0; 
+}
+nav{
+    width: 100%;
+   
+}
+body{
+    margin: 0;
+    background-color: #EFFEF4;
+}
+ul{
+    align-items: flex-end;
+    justify-content: flex-end  ;
+    display: flex;
+    margin: 0;
+}
+li{
+    padding: 20px;
+    width: auto;
+    margin:25px;
+}
+
+.footer {
+    bottom:0;
+    margin-top: 20px;
+    flex-direction: row ;
+    display: flex;
+    
+}
+
+.carrousel-img{
+    height: 400px;
+}
+
+.card-margin{
+    margin-top: 20px;
+    border: none;
+}
+.card{
+    border: none;
+}
+.row-card-margin{
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.float-right{
+    padding:5px;
+    text-decoration: none;
+    margin:10px;
+    margin-left:15px;
+    color: black;
+}
+.float-left{
+    padding:5px;
+    text-decoration: none;
+    margin:10px;
+    color: black;
+    margin-right: 20em;
+}
+a{
+    color: white;
+}
+
+
+.texto-sobre{
+    text-align: justify;
+    padding: 100px;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    margin-top:35px;
+}
+
+.divisor{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.test {
+    display: flex;
+    flex-direction: row;
+}
+
+.row-featurette{
+    display: flex;
+    flex-direction: column  ;
+}
+
+.col-md-5{
+    display: flex;
+}
+
+.services_img{
+    width: 400px;
+    height: 400PX;
+}
+
+.img-card{
+    width: 550px;
+    height: 350px;
+}
+
